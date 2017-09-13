@@ -4,7 +4,7 @@
 - It allows the classes with incompatible interfaces to work together
 - e.g mobile phones from other countries.
 - e.g socket converters that converts the cable switch into the requires switch.
-## Decorator
+## DECORATOR
 - It extends the functionalities of a particular Object without affecting other instances of a same class
 - Provides a flexible alternative to subclasses 
 - It allow to decorate final class
